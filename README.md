@@ -1,6 +1,17 @@
 # SeparateDefaultNetworks
 
 A simple WUPS plugin allowing you to set separate default networks for Wii U and vWii.
+<table>
+  <tr>
+    <td>
+      <img width="854" height="480" alt="Wii U system settings showing one network connection set as default for Wii U, and another for Wii" src="https://github.com/user-attachments/assets/a1b07760-e533-446b-b5ee-f4b72a513460" />
+    </td>
+    <td>
+      <img width="854" height="480" alt="Plugin settings interface." src="https://github.com/user-attachments/assets/cc2f3a76-e21e-41d8-a3d7-d6f77d0cfb93" />
+    </td>
+  </tr>
+</table>
+    
 
 ## Installation
 
