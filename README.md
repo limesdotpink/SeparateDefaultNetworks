@@ -11,7 +11,12 @@ A simple WUPS plugin allowing you to set separate default networks for Wii U and
     </td>
   </tr>
 </table>
-    
+
+## Why would I wanna do that?
+This plugin may be useful to you if:
+- **you want to set up different DNS/proxy settings for the Wii U and vWii**, by creating two connections to the same access point/wired network, changing the settings appropriately, and then using this plugin to set one for Wii U and the other for vWii;
+- **you've got a USB ethernet adapter that doesn't play nice with the vWii**, so you wanna set the Wii U to use it and the vWii to use a wireless network.
+
 
 ## Installation
 
